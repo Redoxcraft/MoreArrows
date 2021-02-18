@@ -1,0 +1,7 @@
+name: MoreArrows
+version: 1.16.1
+api-version: 1.16
+main: de.redoxcraft.morearrows.main.Main
+author: RedoxCraft
+description: none
+website: https://www.youtube.com/redoxcraft
